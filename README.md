@@ -1,2 +1,2 @@
-# HTML
-During my Coursera course
+# HTML,CSS AND JS
+During my HTML,CSS AND JavaScript course
